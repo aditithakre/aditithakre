@@ -1,4 +1,6 @@
-## Hi there 👋
+# <p align="center">Hey! I'm Aditi 🐣</p>
+## <p align="center">I'm currently a final year student at Ramdeobaba University with a keen interest in DevOps, Fullstack development and Artificial Intelligence.</p>
+
 
 <!--
 **aditithakre/aditithakre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
