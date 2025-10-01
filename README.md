@@ -6,6 +6,7 @@
 - 🌱 Learning and growing in **Cloud Computing & DevOps**.  
 - 💡 Keen on solving challenges through **automation and innovation**.  
 - 🎯 Goal: To contribute to open-source and create scalable solutions.
+- Btech. in ECE btw.
 
 ## 🛠️ Languages and Tools  
 
@@ -137,5 +138,3 @@
 - 💼 [LinkedIn]()  
 - 🐦 [X](https://x.com/_aditithakre)  
 - 📧 Email: aditithakre958@email.com
-
-
