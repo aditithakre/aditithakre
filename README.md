@@ -133,8 +133,3 @@
 </table>
 <br><br>
 </table>
-
-## 📫 Connect With Me  
-- 💼 [LinkedIn]()  
-- 🐦 [X](https://x.com/_aditithakre)  
-- 📧 Email: aditithakre958@email.com
