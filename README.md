@@ -129,7 +129,10 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
- </tr>
+ </tr></table>
 </table>
-<br><br>
-</table>
+
+##
+<div align="center">
+  <img src="https://hits.sh/github.com/aditithakre.svg?style=for-the-badge&label=profile%20views" alt="Visitor Count" />
+</div>
